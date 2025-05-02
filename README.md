@@ -153,3 +153,8 @@ python main_agent_loop.py -p <project_id> -i <input_source> [-s]
 *   **Concurrency:** The current file-based storage is not suitable for concurrent access by multiple users or processes for the same project.
 A database would be needed for multi-user scenarios.
 
+## Licensing & Commercial Use
+
+This project is licensed under a custom license prohibiting commercial use without permission.
+
+For commercial inquiries or licensing requests, please contact me at [damsho992@gmail.com] or [https://github.com/hans992].
