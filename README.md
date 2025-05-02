@@ -4,8 +4,6 @@
 
 This project implements an AI agent designed to track action items for specific projects across multiple interactions or meeting notes. It leverages Large Language Models (LLMs) through the `litellm` library to understand natural language input (like meeting transcripts), identify new action items, and update the status of existing ones. The agent maintains the state of action items persistently, providing a memory of tasks associated with a project.
 
-This agent is based on the concepts of programmatic prompting and memory management for AI agents, as discussed in the provided PDF (`AI agents Python.pdf`).
-
 ## Features
 
 *   **Project-Based Tracking:** Action items are associated with specific project IDs.
